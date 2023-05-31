@@ -1,4 +1,10 @@
 /*------- Global -------*/
+html, body {
+    font-size: 16px;
+    line-height: 150%;
+    font-family: 'Arial', sans-serif;
+}
+
 .container {
     height: 100%;
     max-width: 1260px;
