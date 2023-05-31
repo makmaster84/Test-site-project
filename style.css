@@ -1,8 +1,8 @@
 /*------- Global -------*/
 html, body {
-    font-size: 16px;
+    font-size: 17px;
     line-height: 150%;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .wrapper {
@@ -11,15 +11,15 @@ html, body {
     overflow: hidden;
 }
 
+.header {
+    margin-top: 25px;
+}
+
 .container {
     height: 100%;
     max-width: 1260px;
     padding: 0 15px;
     margin: 0 auto;
-}
-
-.header {
-    padding-top: 25px;
 }
 
 .header__inner {
